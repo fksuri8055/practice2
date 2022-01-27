@@ -1,0 +1,27 @@
+#btn {
+  padding: 10px;
+  color: rgb(123, 255, 0);
+  border: 1000px, black;
+  font-weight: bold;
+  flex: content;
+  display: grid;
+  justify-content: center;
+}
+
+p {
+  display: unset;
+  flex: initial;
+  color: blue;
+  background-color: rgb(100, 143, 57);
+  font-size: 50px;
+  justify-content: center;
+}
+
+h1 {
+  color: brown;
+  font-family: fantasy;
+  font: bold;
+  background-color: cornflowerblue;
+  justify-content: stretch;
+  display: grid;
+}
